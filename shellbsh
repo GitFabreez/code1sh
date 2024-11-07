@@ -1,0 +1,5 @@
+create file : 
+-touch "file name "
+-mkdir "file name "
+-mkdir "file" "file" "file"
+-mkdir -p file/file/file 
