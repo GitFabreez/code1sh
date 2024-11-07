@@ -2,4 +2,7 @@ create file :
 -touch "file name "
 -mkdir "file name "
 -mkdir "file" "file" "file"
--mkdir -p file/file/file 
+-mkdir -p file/file/file
+
+and this is the 1rst training github/shell/bash
+ 
